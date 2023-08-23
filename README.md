@@ -1,4 +1,4 @@
-# Projet d'Interfaces Homme-Machine (DUT S2)
+# Projet d'Interfaces Homme-Machine (DUT - Semestre 2)
 
 Projet consistant en la réalisation d'un jeu de type "SameGame".
 
